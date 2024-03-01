@@ -1,0 +1,215 @@
+.header1{
+background-color: yellow;
+}
+.text1{
+   padding-left: 410px;
+   padding-top: 15px;
+   font-weight: bolder;
+}
+.logo{
+   padding-top: 20px;
+}
+#hyp a{
+     color: black; 
+    transform: none;
+    padding: 15px;
+    font-weight: bolder;
+    margin: 30px;
+    
+ }
+ #hyp{
+    padding-top: 40px;
+    padding-left: 100px;
+   }
+   .log{
+      height: 40px;
+      width: 150px;
+      background-color: yellow;
+      border: 1px solid yellow;
+      margin-left: 65px;
+   }
+   .header3{
+      /* background-color: lightgray; */
+      margin-top: 40px;
+      background-image: url(/images/banner2.jpg);
+      height: 500px;
+      background-size: cover;
+   }
+   .lat{
+     font-weight: bolder;
+   }
+   .duct{
+font-weight: bolder;
+color: yellow;
+   }
+   .long{
+      font-weight: bolder;
+   }
+   .header4{
+      padding-left: 200px;
+      padding-top: 100px;
+   }
+   
+   .wh{
+      color: yellow;
+   }
+   .seee{
+      height: 80px;
+      width: 400px;
+      border-top-left-radius: 20px;
+      border-bottom-left-radius: 20px;
+       border-bottom-right-radius: 20px;
+       background-color: yellow;
+       color: white;
+       border: 1px solid yellow;
+       margin-top: 30px;
+   }
+   .header6{
+      text-align: center;
+      padding-top: 50px;
+      padding-bottom: 50px;
+     
+   }
+   .header7{
+      border-left: 30px solid yellow;
+       border-right: 30px solid yellow;
+       padding-top: 100px;
+       
+       font-weight: bold;
+       text-align: center;
+   }
+   .text2{
+padding-top: 20px;
+   }
+    .text3{
+      padding-top: 20px;
+   }
+    .text4{
+      padding-top: 20px;
+   }
+    .text5{
+      padding-top: 20px;
+   }
+   .btn1{
+      height: 70px;
+      width: 200px;
+      margin-top: 70px;
+      border: 4px solid yellow;
+      background-color: white;
+      margin-bottom: 70px;
+   }
+   .serve{
+      color: yellow;
+   }
+   .text6{
+      text-align: center;
+      padding-top: 70px;
+      border-top: 10px solid black;
+   }
+   .text7{
+      padding-top: 20px;
+   }
+   .header8{
+      text-align: center;
+      padding-top: 60px;
+   }
+   .text8{
+      padding-top: 10px;
+   }
+   .text9{
+      padding-top: 10px;
+   }
+   .text10{
+      padding-top: 10px;
+   }
+   .text11{
+      padding-top: 10px;
+   }
+   .text12{
+      padding-top: 10px;
+   }
+   .text13{
+      padding-top: 10px;
+   }
+   .txt1{
+      padding-top: 90px;
+      padding-left: 10px;
+      font-weight: bolder;
+      padding-bottom: 150px;
+      border-bottom: 10px solid black;
+   }
+   .txt2{
+      color: yellow;
+   }
+   .header9{
+     background-image: url(../images/bg.jpg);
+     background-size: cover;
+      margin: 10px;
+   } 
+   .header10{
+      
+  padding-top: 100px;
+   }
+   .header11{
+     
+      /* width: 400px; */
+      padding-top: 40px;
+      padding-left: 30px; 
+      padding-bottom: 100px;
+      background-size: cover;
+      margin-right: 0px;
+      background-color: rgb(204, 198, 198);
+   }
+   .txt3{
+      text-align: center;
+      padding-right: 15px;
+      padding-top: 20px;
+   }
+   .header12{
+      /* width: 400px; */
+      padding-top: 40px;
+      padding-left: 30px;
+      padding-bottom: 100px;
+       background-size: cover;
+       /* margin-left: 90px; */
+       background-color: rgb(204, 198, 198);
+     
+   }
+   .header13{
+      /* width: 400px; */
+      padding-top: 40px;
+      padding-left: 30px;
+      padding-bottom: 100px;
+       background-size: cover;
+       /* margin-left: 90px; */
+       background-color: rgb(204, 198, 198);
+
+   }
+   .header14{
+      /* width: 400px; */
+      padding-top: 40px;
+      padding-left: 30px;
+      padding-bottom: 100px;
+       background-size: cover;
+       /* margin-right: 90px; */
+       background-color: rgb(204, 198, 198);
+   }
+   .header15{
+      margin-top: 40px;
+      padding-bottom: 100px;
+      border-bottom: 5px solid black;
+      
+   }
+   .texts2{
+      padding-top: 30px;
+   }
+   .footer1{
+      margin-top: 50px;
+      border: 2px solid black;
+      height: 200px;
+      
+      
+   }
+   .footer2{
+      padding-top: 100px;
+   }
